@@ -7,7 +7,7 @@ const handler = async (m, { conn }) => {
 
   const primaryBot = chat.botPrimario ? `@${chat.botPrimario.split('@')[0]}` : 'Sin establecer';
 
-  const avatar = "https://files.catbox.moe/1k2k6p.jpg";
+  const avatar = "https://files.catbox.moe/kmsqz3.jpg";
 
   const text = `╭━━━[ *CONFIGURACIÓN* ]━━━⬣
 ┃
