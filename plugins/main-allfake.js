@@ -30,22 +30,22 @@ global.getBuffer = async function getBuffer(url, options) {
 }
 
 const iconUrls = [
-  "https://files.catbox.moe/ahp3bc.jpeg", "https://files.catbox.moe/ffkx61.jpg",
-  "https://files.catbox.moe/uc272d.webp", "https://files.catbox.moe/nuoard.jpg",
-  "https://files.catbox.moe/edsflw.jpg", "https://files.catbox.moe/nuoard.jpg",
-  "https://files.catbox.moe/ilkgfh.webp", "https://files.catbox.moe/fslr4h.jpg",
-  "https://files.catbox.moe/k25pcl.jpg",  "https://files.catbox.moe/5qglcn.jpg",
-  "https://files.catbox.moe/nvhomc.jpeg",  "https://files.catbox.moe/d81jgr.jpg",
-  "https://files.catbox.moe/k25pcl.jpg",  "https://files.catbox.moe/6x9q51.jpg",
-  "https://files.catbox.moe/i7vsnr.jpg",  "https://files.catbox.moe/e9zgbu.jpg",
-  "https://files.catbox.moe/nuoard.jpg", "https://files.catbox.moe/jm6j5b.jpeg",
-  "https://files.catbox.moe/jobvjq.jpg", "https://files.catbox.moe/iph9xr.jpeg",
-  "https://files.catbox.moe/z962x9.jpg", "https://files.catbox.moe/k8griq.jpeg",
-  "https://files.catbox.moe/fslr4h.jpg", "https://files.catbox.moe/104xtw.jpeg",
-  "https://files.catbox.moe/ffkx61.jpg", "https://files.catbox.moe/pjuo2b.jpg",
-  "https://files.catbox.moe/jobvjq.jpg",  "https://files.catbox.moe/7bn1pf.jpg",
-  "https://files.catbox.moe/z962x9.jpg", "https://files.catbox.moe/fe6pw6.jpeg",
-  "https://files.catbox.moe/fslr4h.jpg"
+  "https://files.catbox.moe/3dvgcz.jpeg", "https://files.catbox.moe/fdv4u9.jpg",
+  "https://files.catbox.moe/knryxf.webp", "https://files.catbox.moe/fdv4u9.jpg",
+  "https://files.catbox.moe/3dvgcz.jpeg", "https://files.catbox.moe/fdv4u9.jpg",
+  "https://files.catbox.moe/knryxf.webp", "https://files.catbox.moe/fdv4u9.jpg",
+  "https://files.catbox.moe/k25pcl.jpg",  "https://files.catbox.moe/vplmne.jpg",
+  "https://files.catbox.moe/nvhomc.jpeg",  "https://files.catbox.moe/vplmne.jpg",
+  "https://files.catbox.moe/dapzy2.jpg",  "https://files.catbox.moe/vplmne.jpg",
+  "https://files.catbox.moe/dapzy2.jpg",  "https://files.catbox.moe/vplmne.jpg",
+  "https://files.catbox.moe/dapzy2.jpg", "https://files.catbox.moe/hrdq1f.jpeg",
+  "https://files.catbox.moe/dapzy2.jpg", "https://files.catbox.moe/hrdq1f.jpeg",
+  "https://files.catbox.moe/ucmzlc.jpg", "https://files.catbox.moe/hrdq1f.jpeg",
+  "https://files.catbox.moe/ucmzlc.jpg", "https://files.catbox.moe/hrdq1f.jpeg",
+  "https://files.catbox.moe/ucmzlc.jpg", "https://files.catbox.moe/8xdj2h.jpg",
+  "https://files.catbox.moe/ucmzlc.jpg",  "https://files.catbox.moe/8xdj2h.jpg",
+  "https://files.catbox.moe/ucmzlc.jpg", "https://files.catbox.moe/wgx4ry.jpeg",
+  "https://files.catbox.moe/ucmzlc.jpg"
 ]
 
 function pickRandom(list) {
